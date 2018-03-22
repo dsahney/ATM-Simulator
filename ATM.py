@@ -1,4 +1,3 @@
-# ATM Machine Simulator
 import string
 import random
 
