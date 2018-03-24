@@ -22,9 +22,8 @@ def function1b(x):
             break
 
 print('Welcome,', input(question1),'.')
-    
-answer_q2 = float(input(question2))
 
+answer_q2 = float(input(question2))
 if 0 < answer_q2 <= 1000.0:
     function1a('prompt1a') 
 elif answer_q2 > 1000.0:
